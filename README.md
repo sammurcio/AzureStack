@@ -30,7 +30,7 @@ You can either click the "deploy to Azure" button at the beginning of this docum
 
 # Option 1) If you know the prefix of your <prefix>.onmicrosoft.com AzureAD namespace.
 # You need to set that in the $AadTenantId varibale (e.g. contoso.onmicrosoft.com).
-    $AadTenantId = "contoso"
+    $AadTenantId = "cpec11"
 
 # Option 2) If you don't know the prefix of your AzureAD namespace, run the following cmdlets. 
 # Validate with the Azure AD credentials you also use to sign in as a tenant to Microsoft Azure Stack Technical Preview.
