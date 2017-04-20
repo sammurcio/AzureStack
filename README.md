@@ -1,6 +1,6 @@
 #AzureStack
 
-<a href="https://portal.local.ext-cpec11.lab/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazurestack-quickstart-templates%2Fmaster%2F201-Comprehensive%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.local.ext-cpec11.lab/#create/Microsoft.Template/uri/https://github.com/AJPerron/AzureStack/blob/master/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/Azure/azurestack-quickstart-templates/master/201-Comprehensive/azuredeploy.json" target="_blank">
